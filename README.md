@@ -2,6 +2,8 @@
 
 https://angular.io/guide/interpolation
 
+https://stackblitz.com/~/github.com/luiscoco/AngularTemplate_Sample2-TextInterpolation
+
 In Angular, interpolation refers to a way of binding data from the component to the HTML template. It allows you to display dynamic values in the template by embedding them within curly braces ({{ }}).
 
 Here's a simple example to illustrate interpolation in Angular:
